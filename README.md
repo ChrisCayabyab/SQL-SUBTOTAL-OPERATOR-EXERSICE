@@ -1,6 +1,6 @@
-# SQL-SUBTOTAL-OPERATOR-EXERSICE
+# SQL-SUBTOTAL-OPERATOR-EXERCISE
 Subtotal Operators
-Query 1: Sales Order Shipments by Month and Category Code1
+Query 1: Sales Order Shipments by Month and Category Code 1
 
 Query 2: Sales Order Shipments by Name, Zip, and Quarter
 
@@ -21,4 +21,4 @@ Query 9: Sales Order Shipments by Month and Category Code1 with Group Number
 Query 10: Sales Order Shipments with Subtotals by Name and Partial Subtotals by Year 
 and Quarter
 
-**Every Solotions are inside the pdf**
+**Every Solution is inside the PDF**
